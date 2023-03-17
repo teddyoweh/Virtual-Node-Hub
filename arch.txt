@@ -1,0 +1,21 @@
+- src
+  - main
+    - java
+      - com.yourcompany.yourproject
+        - client
+          - Client.java
+          - DeviceConnection.java
+          - UserInterface.java
+        - server
+          - Server.java
+          - DeviceHandler.java
+          - UserHandler.java
+        - utils
+          - NetworkUtils.java
+        - resources
+          - images
+    - resources
+  - test
+- lib
+- build
+- docs
